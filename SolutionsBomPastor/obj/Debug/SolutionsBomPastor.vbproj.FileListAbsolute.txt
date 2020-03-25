@@ -1,0 +1,14 @@
+C:\TI\VisualStudio\SolutionsBomPastor\SolutionsBomPastor\bin\Debug\Database.mdf
+C:\TI\VisualStudio\SolutionsBomPastor\SolutionsBomPastor\bin\Debug\Database_log.ldf
+C:\TI\VisualStudio\SolutionsBomPastor\SolutionsBomPastor\bin\Debug\SolutionsBomPastor.exe.config
+C:\TI\VisualStudio\SolutionsBomPastor\SolutionsBomPastor\bin\Debug\SolutionsBomPastor.exe
+C:\TI\VisualStudio\SolutionsBomPastor\SolutionsBomPastor\bin\Debug\SolutionsBomPastor.pdb
+C:\TI\VisualStudio\SolutionsBomPastor\SolutionsBomPastor\bin\Debug\SolutionsBomPastor.xml
+C:\TI\VisualStudio\SolutionsBomPastor\SolutionsBomPastor\obj\Debug\SolutionsBomPastor.frmPrincipal.resources
+C:\TI\VisualStudio\SolutionsBomPastor\SolutionsBomPastor\obj\Debug\SolutionsBomPastor.Resources.resources
+C:\TI\VisualStudio\SolutionsBomPastor\SolutionsBomPastor\obj\Debug\SolutionsBomPastor.vbproj.GenerateResource.Cache
+C:\TI\VisualStudio\SolutionsBomPastor\SolutionsBomPastor\obj\Debug\SolutionsBomPastor.exe
+C:\TI\VisualStudio\SolutionsBomPastor\SolutionsBomPastor\obj\Debug\SolutionsBomPastor.xml
+C:\TI\VisualStudio\SolutionsBomPastor\SolutionsBomPastor\obj\Debug\SolutionsBomPastor.pdb
+C:\TI\VisualStudio\SolutionsBomPastor\SolutionsBomPastor\obj\Debug\SolutionsBomPastor.frmLogin.resources
+C:\TI\VisualStudio\SolutionsBomPastor\SolutionsBomPastor\obj\Debug\SolutionsBomPastor.vbprojResolveAssemblyReference.cache
